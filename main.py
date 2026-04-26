@@ -52,9 +52,9 @@ clock = time.Clock()
 FPS = 60
 
 # создание ракеток и мяча
-racket1 = Player('racket.png', 30, 200, 4, 50, 150)
-racket2 = Player('racket.png', 520, 200, 4, 50, 150)
-ball = GameSprite('tenis_ball.png', 275, 225, 4, 50, 50)
+racket1 = Player('КУРИЦО.jpg', 30, 200, 4, 50, 150)
+racket2 = Player('КУРИЦО.jpg', 520, 200, 4, 50, 150)
+ball = GameSprite('ЯЙЦО.jpg', 275, 225, 4, 50, 50)
 
 # игровой цикл
 while game:
